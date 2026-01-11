@@ -1,3 +1,4 @@
+# Lessons Learned: Networking Fundamentals
 ## What Is Networking?
 
 - A network is simply a collection of connected entities that can communicate with each other.
